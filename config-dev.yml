@@ -1,2 +1,2 @@
-#开发配置
-这是开发阶段的配置信息
+config:
+  info: springcloud-config/config-dev.yml?version=1.0
