@@ -1,1 +1,2 @@
-#测试配置
+config:
+  info: springcloud-config/config-test.yml?version=1.0
